@@ -32,6 +32,11 @@ main {
     color: white;
     height: 460px;
     padding: 57px 27px;
+    background-image: url(https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png);
+    background-position-x: 300% ;
+    background-position-y: 90%;
+    background-size: 400px;
+    background-repeat: no-repeat;
 }
 
 h1 {
